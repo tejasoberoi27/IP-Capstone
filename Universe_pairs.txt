@@ -1,0 +1,91 @@
+Feature: 	In The Box
+Value: 	1 TV Unit, Stand, User Manual, Warranty Card, Remote Control, 2 AA Batteries, Power Cable or Power Supply Adapter
+Feature: 	Model Name
+Value: 	43UM7780PTA
+Feature: 	Display Size
+Value: 	108 cm (43)
+Feature: 	Screen Type
+Value: 	LED
+Feature: 	HD Technology & Resolution
+Value: 	Ultra HD (4K), 3840 x 2160
+Feature: 	3D
+Value: 	No
+Feature: 	Smart TV
+Value: 	Yes
+Feature: 	Curve TV
+Value: 	No
+Feature: 	Touchscreen
+Value: 	No
+Feature: 	HDMI
+Value: 	3
+Feature: 	USB
+Value: 	2
+Feature: 	Built In Wi-Fi
+Value: 	Yes
+Feature: 	Launch Year
+Value: 	2019
+Feature: 	Built In Wi-Fi
+Value: 	Yes
+Feature: 	Ethernet (RJ45)
+Value: 	1
+Feature: 	HDMI
+Value: 	2 Side, 1 Rear
+Feature: 	USB
+Value: 	1 Side, 1 Rear
+Feature: 	Digital Noise Filter
+Value: 	Yes
+Feature: 	LED Display Type
+Value: 	Slim LED
+Feature: 	Aspect Ratio
+Value: 	16:09
+Feature: 	Refresh Rate
+Value: 	50 Hz
+Feature: 	Ram Capacity
+Value: 	1.5 GB
+Feature: 	Storage Memory
+Value: 	4 GB
+Feature: 	Supported App - Netflix
+Value: 	Yes
+Feature: 	Supported App - Youtube
+Value: 	Yes
+Feature: 	Supported App - Hotstar
+Value: 	Yes
+Feature: 	Supported App - Others
+Value: 	Prime Video
+Feature: 	Operating System
+Value: 	WebOS
+Feature: 	Number of Speakers
+Value: 	2
+Feature: 	Speaker Output RMS
+Value: 	70 W
+Feature: 	Supported Audio Formats
+Value: 	MP3 and WMA
+Feature: 	Power Requirement
+Value: 	AC 100 - 240 V, 50/60 Hz
+Feature: 	Power Consumption
+Value: 	135 W, 0.5 W (Standby)
+Feature: 	Touch Remote
+Value: 	No
+Feature: 	Smart Remote
+Value: 	Yes
+Feature: 	Battery Type
+Value: 	2 AA  Batteries
+Feature: 	AI ThinQ
+Feature: 	Width x Height x Depth (without stand)
+Value: 	97.7 cm x 59.3 cm x 9.44 cm
+Feature: 	Weight (without stand)
+Value: 	9.5 kg
+Feature: 	Width x Height x Depth (with stand)
+Value: 	62.9 cm x 21.6 cm
+Feature: 	Weight (with stand)
+Value: 	9.6 kg
+Feature: 	Warranty Summary
+Value: 	1 Year LG India Comprehensive Warranty and Additional 1 Year Warranty is Applicable on Panel
+Feature: 	Covered in Warranty
+Value: 	Warranty of the Product is Limited to Manufacturing Defects Only
+Feature: 	Not Covered in Warranty
+Value: 	Warranty does not Cover Any External Accessories (Such as Battery, Cable, Carrying Bag), Damage Caused to the Product due to Improper Installation by Customer, Normal Wear and Tear to Magnetic Heads, Audio, Video, Laser Pick-ups and TV Picture Tubes, Panel, Damages Caused to the Product by Accident, Lightening, Ingress of Water, Fire, Dropping or Excessive Shock, Any Damage Caused due to Tampering of the Product by An Unauthorised Agent, Liability for Loss of Data, Recorded Images or Business Opportunity Loss
+Feature: 	Warranty Service Type
+Value: 	On-site
+Feature: 	Installation & Demo Details
+Value: 	We'll facilitate the installation and demo through authorized service engineer at your convenience The installation will be done within 48 hours of delivery of the TV. The service engineer will install your new TV, either on wall mount or on table top. Installation and demo are provided free of cost. The engineer will also help you understand your new TV's features. The process generally covers: Wall-mounted or table-top installation, as requested. Physical check of all ports, including power and USB ports. Accessories also checked. Demonstration of features and settings Quick run-through on how to operate the TV
