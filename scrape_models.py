@@ -11,8 +11,8 @@ import importlib
 
 # URL = "https://www.flipkart.com/lg-108cm-43-inch-ultra-hd-4k-led-smart-tv/p/itma1038b75c4b3f?pid=TVSFJY52G4XYG7TA&srno=b_1_4&otracker=browse&lid=LSTTVSFJY52G4XYG7TA13WKXK&fm=organic&iid=4b979445-3b1b-4f1d-a451-67c3ca4cf7c6.TVSFJY52G4XYG7TA.SEARCH&ssid=986ztb6erk0000001569949096511https://www.flipkart.com/lg-108cm-43-inch-ultra-hd-4k-led-smart-tv/p/itma1038b75c4b3f?pid=TVSFJY52G4XYG7TA&srno=b_1_4&otracker=browse&lid=LSTTVSFJY52G4XYG7TA13WKXK&fm=organic&iid=4b979445-3b1b-4f1d-a451-67c3ca4cf7c6.TVSFJY52G4XYG7TA.SEARCH&ssid=986ztb6erk0000001569949096511"
 # URL = "https://www.flipkart.com/lg-108cm-43-inch-ultra-hd-4k-led-smart-tv/p/itmf7yraubnjgyzg?pid=TVSF7YRA5MZ96AC3&lid=LSTTVSF7YRA5MZ96AC3UYD2BL&marketplace=FLIPKART&fm=productRecommendation%2Fsimilar&iid=R%3As%3Bp%3ATVSFJY52G4XYG7TA%3Bl%3ALSTTVSFJY52G4XYG7TA13WKXK%3Bpt%3App%3Buid%3Aa86e00de-3972-6caa-4ee9-0b4d2c5bc04b%3B.TVSF7YRA5MZ96AC3.LSTTVSF7YRA5MZ96AC3UYD2BL&ppt=pp&ppn=pp&ssid=986ztb6erk0000001569949096511&otracker=pp_reco_Similar%2BProducts_2_32.productCard.PMU_HORIZONTAL_LG%2B108cm%2B%252843%2Binch%2529%2BUltra%2BHD%2B%25284K%2529%2BLED%2BSmart%2BTV_TVSF7YRA5MZ96AC3.LSTTVSF7YRA5MZ96AC3UYD2BL_productRecommendation%2Fsimilar_1&otracker1=pp_reco_PINNED_productRecommendation%2Fsimilar_Similar%2BProducts_GRID_productCard_cc_2_NA_view-all&cid=TVSF7YRA5MZ96AC3.LSTTVSF7YRA5MZ96AC3UYD2BL"
-URL = "https://www.flipkart.com/lg-108cm-43-inch-ultra-hd-4k-led-smart-tv/p/itma1038b75c4b3f?pid=TVSFJY52G4XYG7TA&srno=b_1_22&otracker=CLP_filters&lid=LSTTVSFJY52G4XYG7TAB9CDET&fm=organic&iid=bb3d3af7-ea4c-4952-b0ef-61fc303b7bfe.TVSFJY52G4XYG7TA.SEARCH&ssid=kwpy3ky3340000001571861188037"
-r = requests.get(URL)
+# URL = "https://www.flipkart.com/lg-108cm-43-inch-ultra-hd-4k-led-smart-tv/p/itma1038b75c4b3f?pid=TVSFJY52G4XYG7TA&srno=b_1_22&otracker=CLP_filters&lid=LSTTVSFJY52G4XYG7TAB9CDET&fm=organic&iid=bb3d3af7-ea4c-4952-b0ef-61fc303b7bfe.TVSFJY52G4XYG7TA.SEARCH&ssid=kwpy3ky3340000001571861188037"
+# r = requests.get(URL)
 
 def store_data(models_tables):
     dbfile = open('models_tables', 'wb')
