@@ -1,0 +1,151 @@
+Feature: 	In The Box
+Value: 	LED TV 1 U Remote Control 1U Manual & Warranty Card 1U Stand 1U ,Screws 4U
+Feature: 	Model Name
+Value: 	L43M4-4AIN
+Feature: 	Display Size
+Value: 	108 cm (43)
+Feature: 	Screen Type
+Value: 	LED
+Feature: 	HD Technology & Resolution
+Value: 	Ultra HD (4K), 3840 x 2160 Pixels
+Feature: 	3D
+Value: 	No
+Feature: 	Smart TV
+Value: 	Yes
+Feature: 	Curve TV
+Value: 	No
+Feature: 	Series
+Value: 	4X
+Feature: 	Touchscreen
+Value: 	No
+Feature: 	Motion Sensor
+Value: 	No
+Feature: 	HDMI
+Value: 	3
+Feature: 	USB
+Value: 	2
+Feature: 	Wi-Fi Type
+Value: 	2.4GHz/5GHz
+Feature: 	Built In Wi-Fi
+Value: 	Yes
+Feature: 	Launch Year
+Value: 	2019
+Feature: 	Built In Wi-Fi
+Value: 	Yes
+Feature: 	3G Dongle Plug and Play
+Value: 	No
+Feature: 	Ethernet (RJ45)
+Value: 	1
+Feature: 	Other Internet Features
+Value: 	Android Pie 9.0, Google Play Store, Chromecast Built-in, Play Movies, Google Assistant, File Manager, Media Player, TV Manager, TV Guide App, LIVE TV App, VP9 Profile 2, H.265, H264, 14 Content Partners
+Feature: 	HDMI
+Value: 	3 Side
+Feature: 	USB
+Value: 	2 Side
+Feature: 	NFC Support
+Value: 	No
+Feature: 	Contrast Ratio
+Value: 	NA (Static)
+Feature: 	Digital TV Reception
+Value: 	No
+Feature: 	View Angle
+Value: 	178 Degree
+Feature: 	Digital Noise Filter
+Value: 	Yes
+Feature: 	LED Display Type
+Value: 	Direct LED
+Feature: 	Aspect Ratio
+Value: 	16:09
+Feature: 	Refresh Rate
+Value: 	60 Hz
+Feature: 	Other Video Features
+Value: 	5 Picture Mode (Standard, Movie, Vivid, Sport, Custom) Dynamic Noise Reduction, Color Temperature Control
+Feature: 	Number of Cores
+Value: 	4
+Feature: 	Processor
+Value: 	Amlogic 64-bit Quad core
+Feature: 	Ram Capacity
+Value: 	2 GB
+Feature: 	Storage Memory
+Value: 	8 GB
+Feature: 	Supported App - Netflix
+Value: 	Yes
+Feature: 	Supported App - Youtube
+Value: 	Yes
+Feature: 	Supported App - Hotstar
+Value: 	Yes
+Feature: 	Supported App - Prime Video
+Value: 	Yes
+Feature: 	Supported Mobile Operating System
+Value: 	AndroidiOS
+Feature: 	Operating System Present
+Value: 	Yes
+Feature: 	Operating System
+Value: 	Android
+Feature: 	Screen Mirroring
+Value: 	Yes
+Feature: 	App Store Type
+Value: 	Google App Store
+Feature: 	Content Providers
+Value: 	Hotstar, Prime Video, Netflix, Zee5, Sun NXT, Voot, Jio Cinema, Eros Now, Hungama Play, Hooq, ALTBalaji, Epic On, Shemaroo Me, Bloomberg, Hoichoi, Republic TV, ABP News, Flickstree
+Feature: 	Content Languages
+Value: 	Marathi, Gujarati, Sinhala, Kannada, Tamil, Rajasthani, Hindi, English, Punjabi, Telugu, Bengali, Urdu, Malayalam, Bhojpuri, Oriya
+Feature: 	System Languages
+Value: 	Assamese, Marathi, Gujarati, Kannada, Tamil, English, Hindi, Punjabi, Bengali, Telugu, Urdu, Malayalam, Oriya
+Feature: 	Number of Speakers
+Value: 	2
+Feature: 	Speaker Type
+Value: 	Box
+Feature: 	Surround Sound
+Value: 	Stereo Sound
+Feature: 	Speaker Output RMS
+Value: 	20 W
+Feature: 	Sound Mode
+Value: 	Standard, News, Movie, Game, Custom
+Feature: 	Other Audio Features
+Value: 	Dolby Plus, DTS-HD
+Feature: 	Other Convenience Features
+Value: 	SPDIF, Bluetooth Version - 4.2, Ultra Bright UHD Display, Patchwall, Google Voice Button in Remote, Technical Superiority with VP9-10 Codec for 4K Videos
+Feature: 	Power Requirement
+Value: 	AC 100 - 240 V, 50/60 Hz
+Feature: 	Power Consumption
+Value: 	105 W, 0.5 W (Standby)
+Feature: 	Touch Remote
+Value: 	No
+Feature: 	Smart Remote
+Value: 	Yes
+Feature: 	RF Capable
+Value: 	Yes
+Feature: 	Internet Access
+Value: 	Yes
+Feature: 	Ultra Bright Full HD display, DTS-HD Speakers, Cable TV Integration, Universal Search
+Feature: 	Width x Height x Depth (without stand)
+Value: 	97 cm x 569 mm x 8.5 cm
+Feature: 	Weight (without stand)
+Value: 	7.2 kg
+Feature: 	Width x Height x Depth (with stand)
+Value: 	970 mm x 613 mm x 214 mm
+Feature: 	Weight (with stand)
+Value: 	7.4 kg
+Feature: 	Stand Type
+Value: 	Table Top
+Feature: 	Warranty Summary
+Value: 	1 Year on TV, 2 years on Panel, 6 Months on Accessories
+Feature: 	Covered in Warranty
+Value: 	LCM, Mother Board, Remote
+Feature: 	Not Covered in Warranty
+Value: 	Physical Damages after Usage, Scratches on Panel
+Feature: 	Warranty Service Type
+Value: 	On-site
+Feature: 	Installation & Demo Details
+Value: 	The service engineer will install your new TV, either on wall mount or on table top
+The wall mount is not provided free of cost and is chargeable to the customer
+Flipkart will facilitate Installation & Demo at time of your convenience from an brand authorized service engineer
+The authorized service engineer will be providing detailed demo that includes Physical check of all ports, including power and USB ports also of accessories
+Understanding your new TV's features and settings with complete demonstration
+Quick run-through on how to operate the TV
+The cost of wall mount is Rs. 499 (inclusive of applicable taxes) and is carried by Technician
+All additional accessories not part of the the package will be charged separately
+Preventive maintenance action to be taken
+Flipkart will communicate the day and time slot of the scheduled Installation & Demo through a SMS and the same information will also be available in your order details page
+The Installation & Demo service will be provided free of cost
