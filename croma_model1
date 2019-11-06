@@ -1,0 +1,130 @@
+Feature: 	Television Type
+Value: 	Flat Panel 
+Feature: 	Television Format
+Value: 	Ultra HD 4K 
+Feature: 	Television Features
+Value: 	Android Smart TV 
+Feature: 	Brand
+Value: 	TCL 
+Feature: 	Model Series
+Value: 	P8E 
+Feature: 	Model Number
+Value: 	50P8E 
+Feature: 	Size (In CMs)
+Value: 	127 cm
+Feature: 	Size (In Inches)
+Value: 	50 Inches
+Feature: 	Type
+Value: 	LED 
+Feature: 	Backlight Technology
+Value: 	DLED 
+Feature: 	Resolution
+Value: 	3840 x 2160 pixels 
+Feature: 	Ratio
+Value: 	16:9 
+Feature: 	Brightness
+Value: 	300 Nits
+Feature: 	Dynamic Contrast Ratio
+Value: 	4000:1 
+Feature: 	Refresh Rate
+Value: 	60 Hz
+Feature: 	Vertical Viewing Angle
+Value: 	178 Degree
+Feature: 	Horizontal Viewing Angle
+Value: 	178 Degree
+Feature: 	HDR Type
+Value: 	HDR 10 
+Feature: 	Additional Screen Specifications
+Value: 	Lifetime : 30,000 Hrs (Typ) | Color : 1.07B (8bit+FRC) | Color Gamut : (NTSC CIE 1931) : 72 Percent (Typical) | Panel Supplier : AUO T850QVR02.3 (4A-LD85O5-AU1GTA) 
+Feature: 	Picture Mode
+Value: 	Standard | Dynamic | Sport | Movie 
+Feature: 	Video Formats Supported
+Value: 	Up to 4K@60Hz-12bit 4:2:2 | 4K@60Hz-8bit 4:4:4 
+Feature: 	Additional Features
+Value: 	Backlight Adjustable - (0 -100) | Color Temperature : -5+5 | T-Link : CEC | GPU : Mali T860 MP2 480MHz | HDMI and HDCP Version : HDMI 1.4 | HDMI2.0 | HDCP 1.4 | HDCP2.2 | Picture : (JPEG | PNG | BMP) | USB Mouse and Key Board | Front Rail : Metal | Back Cover : PC and ABS-V0 | Rohs | Fire-Proof Level : V0 | Chassis : MT58CX-AU | UI Style : Google Android TV UI & TCL TV Plus 3.0 UI 
+Feature: 	Speaker Type
+Value: 	Built-in Speakers 
+Feature: 	Speaker Capacity
+Value: 	20 Watts
+Feature: 	Audio Technology
+Value: 	Dolby : MS11 
+Feature: 	Audio Decoder
+Value: 	H.265 | H.264 | MPG1/2/4 | WMV | VC1 | VP8 | VP9 
+Feature: 	Sound Modes
+Value: 	Standard | Movie | Music | Voice | Game | Stadium | Personal 
+Feature: 	Music Playback Format Supported
+Value: 	MP3 | WMA | AC3 
+Feature: 	Additional Audio Features
+Value: 	Audio Delay | Sound Control : Five Band Equalizer | DTS Decode (DTS HD | DTS express 5.1) | DTS Premium Sound | DTS Studio Sound | Integrated Speakers (Box 380 Bass 6 Treble 8 ohm) | Button : (Sound On and Off | Remote Control Voice Prompt) 
+Feature: 	OS Type
+Value: 	Android OS 
+Feature: 	OS Name & Version
+Value: 	Android 9.0 Pie 
+Feature: 	Name
+Value: 	CA53 x 4 64bit 
+Feature: 	Processor Speed
+Value: 	1.1 GHz
+Feature: 	RAM
+Value: 	2 GB
+Feature: 	Type Of RAM
+Value: 	DDR3 
+Feature: 	Storage Capacity
+Value: 	16GB 
+Feature: 	Number Of USB Ports
+Value: 	2 x USB 
+Feature: 	HDMI Type
+Value: 	HDMI 
+Feature: 	Number Of HDMI Ports
+Value: 	3 x HDMI 
+Feature: 	Ethernet Supported
+Value: 	Yes 
+Feature: 	WiFi Supported
+Value: 	Yes 
+Feature: 	WiFi Specifications
+Value: 	Integrted 2x2 ac/b/g/n 
+Feature: 	WiFi Features
+Value: 	2.4 GHz | 5 GHz | Dual Band 
+Feature: 	Bluetooth Supported
+Value: 	Yes 
+Feature: 	Remote Control Type
+Value: 	Voice Controlled 
+Feature: 	Installation Type
+Value: 	Table Top Wall Mount 
+Feature: 	VESA Mounting Standard
+Value: 	WMB533 
+Feature: 	Smart Features
+Value: 	System Update | Google Mobile Service | Google Play Store | YouTube | Google Play Games | E-Sticker | Recent Apps | Media Center| YUPPTV | Spotify | Wuaki.TV | Golive 3.0 | T-CAST | T-Browser | Google Play Movies&TV | Google Cast | Netflix | Google Voice Input | Initial Setup | Instant Power on | Channels Edit | Input Method : TCL T-IME\Leanback Keyboard | Teletext | Audio Language/Nicam | Programme Schedule | EPG | Subtitle 
+Feature: 	Languages Supported
+Value: 	English | Vietnamese | Thai | Chinese | Chinese Traditional | Indonesian | France | Spanish(LatinAmerica)/Russian | Arabic | Farsi | Mo 
+Feature: 	Eco Features
+Value: 	Eco Energy Efficiency 
+Feature: 	Power
+Value: 	480 Watts
+Feature: 	Power Consumption (Standby)
+Value: 	0.5 Watts
+Feature: 	Voltage Rating
+Value: 	100 - 240 V 
+Feature: 	Frequency
+Value: 	50 - 60 Hz 
+Feature: 	Color
+Value: 	Black 
+Feature: 	Color Family
+Value: 	Black 
+Feature: 	Main Product
+Value: 	1 x Television U 
+Feature: 	Accessories
+Value: 	Power Cable Remote Remote Control Battery Stand 
+Feature: 	Documents
+Value: 	User Manual Warranty Card 
+Feature: 	Dimensions in CM (W x D x H)
+Value: 	126.50 x 14.50 x 77.50 
+Feature: 	Dimensions in Inches (W x D x H)
+Value: 	49.80 x 5.70 x 30.51 
+Feature: 	Weight
+Value: 	13.32 Kg
+Feature: 	Installation & Demo
+Value: 	Croma will coordinate with the brand for Installation and Demo 
+Feature: 	Standard Warranty Period
+Value: 	36 Months
+Feature: 	Generic Name
+Value: 	Television 

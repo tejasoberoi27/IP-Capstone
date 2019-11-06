@@ -80,7 +80,7 @@ Value: 	62.9 cm x 21.6 cm
 Feature: 	Weight (with stand)
 Value: 	9.6 kg
 Feature: 	Warranty Summary
-Value: 	1 Year LG India Comprehensive Warranty and Additional 1 Year Warranty is Applicable on Panel
+Value: 	1 Year Comprehensive and 2 year Additional Warranty on all parts of TV
 Feature: 	Covered in Warranty
 Value: 	Warranty of the Product is Limited to Manufacturing Defects Only
 Feature: 	Not Covered in Warranty
