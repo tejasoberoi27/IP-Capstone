@@ -1,0 +1,71 @@
+{
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": 2,
+      "outputs": [
+        {
+          "traceback": [
+            "\u001b[1;31m---------------------------------------------------------------------------\u001b[0m",
+            "\u001b[1;31mModuleNotFoundError\u001b[0m                       Traceback (most recent call last)",
+            "\u001b[1;32m\u003cipython-input-2-05e934506391\u003e\u001b[0m in \u001b[0;36m\u003cmodule\u003e\u001b[1;34m\u001b[0m\n\u001b[0;32m      1\u001b[0m \u001b[1;31m#importing the glove library\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m----\u003e 2\u001b[1;33m \u001b[1;32mfrom\u001b[0m \u001b[0mglove\u001b[0m \u001b[1;32mimport\u001b[0m \u001b[0mCorpus\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mGlove\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m      3\u001b[0m \u001b[1;31m# creating a corpus object\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m      4\u001b[0m \u001b[0mcorpus\u001b[0m \u001b[1;33m\u003d\u001b[0m \u001b[0mCorpus\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m      5\u001b[0m \u001b[1;31m#training the corpus to generate the co occurence matrix which is used in GloVe\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+            "\u001b[1;31mModuleNotFoundError\u001b[0m: No module named \u0027glove\u0027"
+          ],
+          "ename": "ModuleNotFoundError",
+          "evalue": "No module named \u0027glove\u0027",
+          "output_type": "error"
+        }
+      ],
+      "source": "#importing the glove library\nfrom glove import Corpus, Glove\n# creating a corpus object\ncorpus \u003d Corpus() \n#training the corpus to generate the co occurence matrix which is used in GloVe\ncorpus.fit(lines, window\u003d10)\n#creating a Glove object which will use the matrix created in the above lines to create embeddings\n#We can set the learning rate as it uses Gradient Descent and number of components\nglove \u003d Glove(no_components\u003d5, learning_rate\u003d0.05)\n \nglove.fit(corpus.matrix, epochs\u003d30, no_threads\u003d4, verbose\u003dTrue)\nglove.add_dictionary(corpus.dictionary)\nglove.save(\u0027glove.model\u0027)",
+      "metadata": {
+        "pycharm": {
+          "metadata": false,
+          "name": "#%%\n",
+          "is_executing": false
+        }
+      }
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "outputs": [],
+      "source": "\n",
+      "metadata": {
+        "pycharm": {
+          "metadata": false,
+          "name": "#%%\n"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "language_info": {
+      "codemirror_mode": {
+        "name": "ipython",
+        "version": 2
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython2",
+      "version": "2.7.6"
+    },
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3"
+    },
+    "stem_cell": {
+      "cell_type": "raw",
+      "source": "",
+      "metadata": {
+        "pycharm": {
+          "metadata": false
+        }
+      }
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 0
+}
