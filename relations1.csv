@@ -1,0 +1,10 @@
+﻿Subject,Predicate,Object,CSV_FILE_PATH,CSV_COLUMN_NO_Subject,CSV_COLUMN_NO_Object,Domain,Range
+BrandName,consistsOf,ModelNo,C:\\Users\\shubhangi\\Desktop\\capstone\\Capstone_project.csv,1,2,,
+ModelNo,hasScreenSize,ScreenSize,C:\\Users\\shubhangi\\Desktop\\capstone\\Capstone_project.csv,2,3,,
+ModelNo,hasScreenResolution,ScreenResolution,C:\\Users\\shubhangi\\Desktop\\capstone\\Capstone_project.csv,2,4,,
+ModelNo,isOfType,ScreenType,C:\\Users\\shubhangi\\Desktop\\capstone\\Capstone_project.csv,2,5,,
+ModelNo,contains,USB,C:\\Users\\shubhangi\\Desktop\\capstone\\Capstone_project.csv,2,6,,
+ModelNo,hasEthernet,Ethernet,C:\\Users\\shubhangi\\Desktop\\capstone\\Capstone_project.csv,2,7,,
+ModelNo,hasCountHdmi,HDMI,C:\\Users\\shubhangi\\Desktop\\capstone\\Capstone_project.csv,2,8,,
+ScreenResolution,hasRefreshRate,RefreshRate,C:\\Users\\shubhangi\\Desktop\\capstone\\Capstone_project.csv,4,9,,
+ModelNo,ContainsOs,OS,C:\\Users\\shubhangi\\Desktop\\capstone\\Capstone_project.csv,2,10,,

@@ -1,0 +1,340 @@
+
+<http://project.iiitd/BrandName> <http://project.iiitd/consistsOf> "Model No" .
+
+<http://project.iiitd/Samsung> <http://project.iiitd/consistsOf> " UA43N5370AU  Full HD Smart LED" .
+
+<http://project.iiitd/Samsung\u0020\u0020> <http://project.iiitd/consistsOf> "QA55Q6FNAK" .
+
+<http://project.iiitd/Samsung\u0020> <http://project.iiitd/consistsOf> " UA49NU7100K" .
+
+<http://project.iiitd/Sony\u0020> <http://project.iiitd/consistsOf> "KLV-32R302E" .
+
+<http://project.iiitd/LG\u0020> <http://project.iiitd/consistsOf> "OLED77C9PTA" .
+
+<http://project.iiitd/LG\u0020\u0020> <http://project.iiitd/consistsOf> "32LK526BPTA" .
+
+<http://project.iiitd/Sony\u0020> <http://project.iiitd/consistsOf> "KLV-43W662F" .
+
+<http://project.iiitd/Sony\u0020> <http://project.iiitd/consistsOf> "KLV-32BX320" .
+
+<http://project.iiitd/LG\u0020> <http://project.iiitd/consistsOf> "43LK5760PTA" .
+
+<http://project.iiitd/Sony\u0020> <http://project.iiitd/consistsOf> "KLV-40R252F" .
+
+<http://project.iiitd/> <http://project.iiitd/consistsOf> "" .
+
+<http://project.iiitd/> <http://project.iiitd/consistsOf> "" .
+
+<http://project.iiitd/> <http://project.iiitd/consistsOf> "" .
+
+<http://project.iiitd/> <http://project.iiitd/consistsOf> "" .
+
+<http://project.iiitd/> <http://project.iiitd/consistsOf> "" .
+
+<http://project.iiitd/> <http://project.iiitd/consistsOf> "" .
+
+<http://project.iiitd/> <http://project.iiitd/consistsOf> "" .
+
+<http://project.iiitd/Model\u0020No> <http://project.iiitd/hasScreenSize> "Screen Size(inches)" .
+
+<http://project.iiitd/\u0020UA43N5370AU\u0020\u0020Full\u0020HD\u0020Smart\u0020LED>
+  <http://project.iiitd/hasScreenSize> "43" .
+
+<http://project.iiitd/QA55Q6FNAK> <http://project.iiitd/hasScreenSize> "55" .
+
+<http://project.iiitd/\u0020UA49NU7100K> <http://project.iiitd/hasScreenSize> "49" .
+
+<http://project.iiitd/KLV-32R302E> <http://project.iiitd/hasScreenSize> "32" .
+
+<http://project.iiitd/OLED77C9PTA> <http://project.iiitd/hasScreenSize> "77" .
+
+<http://project.iiitd/32LK526BPTA> <http://project.iiitd/hasScreenSize> "32" .
+
+<http://project.iiitd/KLV-43W662F> <http://project.iiitd/hasScreenSize> "43" .
+
+<http://project.iiitd/KLV-32BX320> <http://project.iiitd/hasScreenSize> "32" .
+
+<http://project.iiitd/43LK5760PTA> <http://project.iiitd/hasScreenSize> "43" .
+
+<http://project.iiitd/KLV-40R252F> <http://project.iiitd/hasScreenSize> "40" .
+
+<http://project.iiitd/> <http://project.iiitd/hasScreenSize> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasScreenSize> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasScreenSize> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasScreenSize> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasScreenSize> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasScreenSize> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasScreenSize> "" .
+
+<http://project.iiitd/Model\u0020No> <http://project.iiitd/hasScreenResolution> "Screen Resolution" .
+
+<http://project.iiitd/\u0020UA43N5370AU\u0020\u0020Full\u0020HD\u0020Smart\u0020LED>
+  <http://project.iiitd/hasScreenResolution> "1920 x 1080" .
+
+<http://project.iiitd/QA55Q6FNAK> <http://project.iiitd/hasScreenResolution> "3840x2160" .
+
+<http://project.iiitd/\u0020UA49NU7100K> <http://project.iiitd/hasScreenResolution>
+    "3840x2160 " .
+
+<http://project.iiitd/KLV-32R302E> <http://project.iiitd/hasScreenResolution> "1366 x 768" .
+
+<http://project.iiitd/OLED77C9PTA> <http://project.iiitd/hasScreenResolution> "3840 x 2160 pixels" .
+
+<http://project.iiitd/32LK526BPTA> <http://project.iiitd/hasScreenResolution> "" .
+
+<http://project.iiitd/KLV-43W662F> <http://project.iiitd/hasScreenResolution> "1920 x 1080" .
+
+<http://project.iiitd/KLV-32BX320> <http://project.iiitd/hasScreenResolution> "1366 x 768" .
+
+<http://project.iiitd/43LK5760PTA> <http://project.iiitd/hasScreenResolution> "1920 x 1080" .
+
+<http://project.iiitd/KLV-40R252F> <http://project.iiitd/hasScreenResolution> "1921 x 1080" .
+
+<http://project.iiitd/> <http://project.iiitd/hasScreenResolution> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasScreenResolution> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasScreenResolution> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasScreenResolution> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasScreenResolution> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasScreenResolution> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasScreenResolution> "" .
+
+<http://project.iiitd/Model\u0020No> <http://project.iiitd/isOfType> "Screen Type" .
+
+<http://project.iiitd/\u0020UA43N5370AU\u0020\u0020Full\u0020HD\u0020Smart\u0020LED>
+  <http://project.iiitd/isOfType> "LED" .
+
+<http://project.iiitd/QA55Q6FNAK> <http://project.iiitd/isOfType> "LED" .
+
+<http://project.iiitd/\u0020UA49NU7100K> <http://project.iiitd/isOfType> "LED" .
+
+<http://project.iiitd/KLV-32R302E> <http://project.iiitd/isOfType> "LED" .
+
+<http://project.iiitd/OLED77C9PTA> <http://project.iiitd/isOfType> "OLED" .
+
+<http://project.iiitd/32LK526BPTA> <http://project.iiitd/isOfType> "LED" .
+
+<http://project.iiitd/KLV-43W662F> <http://project.iiitd/isOfType> "LED" .
+
+<http://project.iiitd/KLV-32BX320> <http://project.iiitd/isOfType> "LCD" .
+
+<http://project.iiitd/43LK5760PTA> <http://project.iiitd/isOfType> "LED" .
+
+<http://project.iiitd/KLV-40R252F> <http://project.iiitd/isOfType> "LED" .
+
+<http://project.iiitd/> <http://project.iiitd/isOfType> "" .
+
+<http://project.iiitd/> <http://project.iiitd/isOfType> "" .
+
+<http://project.iiitd/> <http://project.iiitd/isOfType> "" .
+
+<http://project.iiitd/> <http://project.iiitd/isOfType> "" .
+
+<http://project.iiitd/> <http://project.iiitd/isOfType> "" .
+
+<http://project.iiitd/> <http://project.iiitd/isOfType> "" .
+
+<http://project.iiitd/> <http://project.iiitd/isOfType> "" .
+
+<http://project.iiitd/Model\u0020No> <http://project.iiitd/contains> "USB" .
+
+<http://project.iiitd/\u0020UA43N5370AU\u0020\u0020Full\u0020HD\u0020Smart\u0020LED>
+  <http://project.iiitd/contains> "yes" .
+
+<http://project.iiitd/QA55Q6FNAK> <http://project.iiitd/contains> "yes" .
+
+<http://project.iiitd/\u0020UA49NU7100K> <http://project.iiitd/contains> "yes" .
+
+<http://project.iiitd/KLV-32R302E> <http://project.iiitd/contains> "yes" .
+
+<http://project.iiitd/OLED77C9PTA> <http://project.iiitd/contains> "3" .
+
+<http://project.iiitd/32LK526BPTA> <http://project.iiitd/contains> "yes" .
+
+<http://project.iiitd/KLV-43W662F> <http://project.iiitd/contains> "yes" .
+
+<http://project.iiitd/KLV-32BX320> <http://project.iiitd/contains> "yes" .
+
+<http://project.iiitd/43LK5760PTA> <http://project.iiitd/contains> "yes" .
+
+<http://project.iiitd/KLV-40R252F> <http://project.iiitd/contains> "yes" .
+
+<http://project.iiitd/> <http://project.iiitd/contains> "" .
+
+<http://project.iiitd/> <http://project.iiitd/contains> "" .
+
+<http://project.iiitd/> <http://project.iiitd/contains> "" .
+
+<http://project.iiitd/> <http://project.iiitd/contains> "" .
+
+<http://project.iiitd/> <http://project.iiitd/contains> "" .
+
+<http://project.iiitd/> <http://project.iiitd/contains> "" .
+
+<http://project.iiitd/> <http://project.iiitd/contains> "" .
+
+<http://project.iiitd/Model\u0020No> <http://project.iiitd/hasEthernet> "Ethernet" .
+
+<http://project.iiitd/\u0020UA43N5370AU\u0020\u0020Full\u0020HD\u0020Smart\u0020LED>
+  <http://project.iiitd/hasEthernet> "no" .
+
+<http://project.iiitd/QA55Q6FNAK> <http://project.iiitd/hasEthernet> "yes" .
+
+<http://project.iiitd/\u0020UA49NU7100K> <http://project.iiitd/hasEthernet> "yes" .
+
+<http://project.iiitd/KLV-32R302E> <http://project.iiitd/hasEthernet> "no" .
+
+<http://project.iiitd/OLED77C9PTA> <http://project.iiitd/hasEthernet> "yes" .
+
+<http://project.iiitd/32LK526BPTA> <http://project.iiitd/hasEthernet> "no" .
+
+<http://project.iiitd/KLV-43W662F> <http://project.iiitd/hasEthernet> "no" .
+
+<http://project.iiitd/KLV-32BX320> <http://project.iiitd/hasEthernet> "no" .
+
+<http://project.iiitd/43LK5760PTA> <http://project.iiitd/hasEthernet> "no" .
+
+<http://project.iiitd/KLV-40R252F> <http://project.iiitd/hasEthernet> "no" .
+
+<http://project.iiitd/> <http://project.iiitd/hasEthernet> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasEthernet> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasEthernet> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasEthernet> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasEthernet> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasEthernet> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasEthernet> "" .
+
+<http://project.iiitd/Model\u0020No> <http://project.iiitd/hasCountHdmi> "HDMI" .
+
+<http://project.iiitd/\u0020UA43N5370AU\u0020\u0020Full\u0020HD\u0020Smart\u0020LED>
+  <http://project.iiitd/hasCountHdmi> "2" .
+
+<http://project.iiitd/QA55Q6FNAK> <http://project.iiitd/hasCountHdmi> "4" .
+
+<http://project.iiitd/\u0020UA49NU7100K> <http://project.iiitd/hasCountHdmi> "3" .
+
+<http://project.iiitd/KLV-32R302E> <http://project.iiitd/hasCountHdmi> "2" .
+
+<http://project.iiitd/OLED77C9PTA> <http://project.iiitd/hasCountHdmi> "4" .
+
+<http://project.iiitd/32LK526BPTA> <http://project.iiitd/hasCountHdmi> "2" .
+
+<http://project.iiitd/KLV-43W662F> <http://project.iiitd/hasCountHdmi> "2" .
+
+<http://project.iiitd/KLV-32BX320> <http://project.iiitd/hasCountHdmi> "1" .
+
+<http://project.iiitd/43LK5760PTA> <http://project.iiitd/hasCountHdmi> "2" .
+
+<http://project.iiitd/KLV-40R252F> <http://project.iiitd/hasCountHdmi> "1" .
+
+<http://project.iiitd/> <http://project.iiitd/hasCountHdmi> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasCountHdmi> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasCountHdmi> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasCountHdmi> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasCountHdmi> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasCountHdmi> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasCountHdmi> "" .
+
+<http://project.iiitd/Screen\u0020Resolution> <http://project.iiitd/hasRefreshRate>
+    "Refresh Rate" .
+
+<http://project.iiitd/1920\u0020x\u00201080> <http://project.iiitd/hasRefreshRate>
+    "60" .
+
+<http://project.iiitd/3840x2160> <http://project.iiitd/hasRefreshRate> "120" .
+
+<http://project.iiitd/3840x2160\u0020> <http://project.iiitd/hasRefreshRate> "120" .
+
+<http://project.iiitd/1366\u0020x\u0020768> <http://project.iiitd/hasRefreshRate>
+    "120" .
+
+<http://project.iiitd/3840\u0020x\u00202160\u0020pixels> <http://project.iiitd/hasRefreshRate>
+    "120" .
+
+<http://project.iiitd/> <http://project.iiitd/hasRefreshRate> "60" .
+
+<http://project.iiitd/1920\u0020x\u00201080> <http://project.iiitd/hasRefreshRate>
+    "60" .
+
+<http://project.iiitd/1366\u0020x\u0020768> <http://project.iiitd/hasRefreshRate>
+    "60" .
+
+<http://project.iiitd/1920\u0020x\u00201080> <http://project.iiitd/hasRefreshRate>
+    "60" .
+
+<http://project.iiitd/1921\u0020x\u00201080> <http://project.iiitd/hasRefreshRate>
+    "120" .
+
+<http://project.iiitd/> <http://project.iiitd/hasRefreshRate> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasRefreshRate> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasRefreshRate> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasRefreshRate> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasRefreshRate> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasRefreshRate> "" .
+
+<http://project.iiitd/> <http://project.iiitd/hasRefreshRate> "" .
+
+<http://project.iiitd/Model\u0020No> <http://project.iiitd/ContainsOs> "OS" .
+
+<http://project.iiitd/\u0020UA43N5370AU\u0020\u0020Full\u0020HD\u0020Smart\u0020LED>
+  <http://project.iiitd/ContainsOs> "Tizen" .
+
+<http://project.iiitd/QA55Q6FNAK> <http://project.iiitd/ContainsOs> "Tizen" .
+
+<http://project.iiitd/\u0020UA49NU7100K> <http://project.iiitd/ContainsOs> "Tizen" .
+
+<http://project.iiitd/KLV-32R302E> <http://project.iiitd/ContainsOs> "null" .
+
+<http://project.iiitd/OLED77C9PTA> <http://project.iiitd/ContainsOs> "WebOS" .
+
+<http://project.iiitd/32LK526BPTA> <http://project.iiitd/ContainsOs> "android" .
+
+<http://project.iiitd/KLV-43W662F> <http://project.iiitd/ContainsOs> "Linux" .
+
+<http://project.iiitd/KLV-32BX320> <http://project.iiitd/ContainsOs> "null" .
+
+<http://project.iiitd/43LK5760PTA> <http://project.iiitd/ContainsOs> "Linux" .
+
+<http://project.iiitd/KLV-40R252F> <http://project.iiitd/ContainsOs> "Linux" .
+
+<http://project.iiitd/> <http://project.iiitd/ContainsOs> "" .
+
+<http://project.iiitd/> <http://project.iiitd/ContainsOs> "" .
+
+<http://project.iiitd/> <http://project.iiitd/ContainsOs> "" .
+
+<http://project.iiitd/> <http://project.iiitd/ContainsOs> "" .
+
+<http://project.iiitd/> <http://project.iiitd/ContainsOs> "" .
+
+<http://project.iiitd/> <http://project.iiitd/ContainsOs> "" .
+
+<http://project.iiitd/> <http://project.iiitd/ContainsOs> "" .

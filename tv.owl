@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#"
+     xml:base="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#BrandName -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#BrandName">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#TVBrand"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#ComponentVideo -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#ComponentVideo">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#Ports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#Ethernet -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#Ethernet">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#Ports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#HDMI -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#HDMI">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#Ports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#ModelNo -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#ModelNo">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#TVBrand"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#Os -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#Os">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#Television"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#Ports -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#Ports">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#Television"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#RefreshRate -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#RefreshRate">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#ScreenResolution"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#SVideo -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#SVideo">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#Ports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#ScreenResolution -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#ScreenResolution">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#Television"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#ScreenSize -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#ScreenSize">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#Television"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#ScreenType -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#ScreenType">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#Television"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#TVBrand -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#TVBrand">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#Television"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#Television -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#Television"/>
+    
+
+
+    <!-- http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#USB -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#USB">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#Ports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#VGA -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#VGA">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shubhangi/ontologies/2019/8/untitled-ontology-27#Ports"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
